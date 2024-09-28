@@ -53,7 +53,7 @@
 ### 🚀 Projects:
 
 <h3><a href="https://wanderlust-f7um.onrender.com/listings" target="_blank">Wanderlust</a></h3>
-Wanderlust, a full-stack Airbnb clone designed to allow users to explore, book, and host stays in unique locations around the world. This project replicates the core functionality of Airbnb with an emphasis on user-friendly design and seamless interaction.
+Wanderlust, a full-stack Web-Application inspired by Airbnb, designed to allow users to explore, add reviews, and host stays in unique locations around the world. This project replicates the core functionality of Airbnb with an emphasis on user-friendly design and seamless interaction.
 
 ---
 
